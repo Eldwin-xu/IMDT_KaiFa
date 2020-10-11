@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 110
+  controlID: 37
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 83
+  controlID: 87
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 84
+  controlID: 88
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,20 +317,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/LOD
+    - Assets/LOD/Texture_File
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/LOD
+  - Assets/LOD/Texture_File
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "E:\\Tsinghua Folder\\\u4E92\u52A8\u5A92\u4F53\uFF08\u6E38\u620F\uFF09\u5F00\u53D1\u57FA\u7840\\Class5\\MeshLod"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: dc360000
-    m_LastClickedID: 14044
+    m_SelectedIDs: e0360000
+    m_LastClickedID: 14048
     m_ExpandedIDs: 00000000d8360000dc36000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a2360000
-      m_LastClickedID: 13986
-      m_ExpandedIDs: 62fbffff9c360000
+      m_SelectedIDs: 9c360000
+      m_LastClickedID: 13980
+      m_ExpandedIDs: 62fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.15614653, y: 0.55967, z: 0.019135237}
+    m_Target: {x: 1.1897401, y: -1.7428122, z: -3.9652557}
     speed: 2
-    m_Value: {x: 0.15614653, y: 0.55967, z: 0.019135237}
+    m_Value: {x: 1.1897401, y: -1.7428122, z: -3.9652557}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.02827829, y: -0.9668935, z: 0.22161211, w: -0.12335571}
+    m_Target: {x: -0.028233044, y: -0.9709194, z: 0.1875412, w: -0.14613847}
     speed: 2
-    m_Value: {x: 0.02827829, y: 0.96689355, z: -0.22161213, w: 0.12335572}
+    m_Value: {x: -0.028514188, y: -0.9706944, z: 0.18749775, w: -0.14759399}
   m_Size:
-    m_Target: 16.125034
+    m_Target: 2.7218685
     speed: 2
-    m_Value: 15.4306555
+    m_Value: 2.7218685
   m_Ortho:
     m_Target: 0
     speed: 2
